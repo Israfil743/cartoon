@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ANIK SITE </title>
+</head>
+<body>
+	<h1>hi there </h1>
+	<p>how <b>are<b> you</p>
+	<a href="https://www.youtube.com/" target="-blank" title="lets go to youtube">click here</a>
+	<p>MY NAME IS :<br>
+MR. CAT BOSS</p>
+	<img src="https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png">
+</body>
+</html>
