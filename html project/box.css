@@ -1,0 +1,23 @@
+
+.white{
+    background-color: blue;
+    width: 450px;
+    height: 150px;
+    font-size: 30px;
+}
+.black{
+    background-color: aquamarine;
+    width: 550px;
+    height: 450px;
+    font-size: 20px;
+}
+.green{
+    background-color: plum;
+    width: 300px;
+    height: 250px;
+    font-size: 40px;
+}
+.blue{
+    background-color: brown; width: 100px;
+    height: 70px;
+}
